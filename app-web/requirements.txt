@@ -77,3 +77,4 @@ Werkzeug==0.16.0
 widgetsnbextension==3.5.1
 xgboost==0.90
 zipp==0.6.0
+zipp==0.6.0
